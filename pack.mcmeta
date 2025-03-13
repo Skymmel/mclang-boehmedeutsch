@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 15,
+		"description": "Changes languages"
+	},
+	"language": {
+		"de_bd": {
+			"name": "Böhmedeutsch",
+			"region": "Deustchböhmen",
+			"bidirectional": false
+		}
+	}
+}
