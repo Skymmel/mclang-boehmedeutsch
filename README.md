@@ -6,4 +6,4 @@ A **Minecraft language** for the ![historical region](https://en.wikipedia.org/w
 Thanks to this pack, **you will be able to select** the language "**Böhmedeutsch**," also known as **Bohemian German**.
 ![A Minecraft list of languages with Böhmedeutsch](https://github.com/Skymmel/mclang-boehmedeutsch/blob/main/img/langs.png?raw=true)
 
-PRE-ALPHA PROJECT
+> PRE-ALPHA PROJECT
