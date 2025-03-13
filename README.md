@@ -6,7 +6,7 @@ A **Minecraft language** for the **historical region** of the ***Kingdom of Bohe
 
 
 
-Thanks to this pack, **you will be able to select** the language "**Böhmedeutsch**," also known as **Bohemian German**.
+Thanks to this pack, **you will be able to select** the language **Böhmedeutsch**, also known as **Bohemian German**.
 ![A Minecraft list of languages with Böhmedeutsch](https://github.com/Skymmel/mclang-boehmedeutsch/blob/main/img/langs.png?raw=true)
 
 > This is one of the dialects of Sudetenland.
